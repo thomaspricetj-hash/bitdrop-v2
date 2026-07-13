@@ -144,6 +144,16 @@ The Licensee may not use the Software, its output, or any observed behavior to d
 
 Any violation of Sections 8–11 constitutes immediate and material breach of this Agreement and results in automatic termination of all rights granted herein.
 The Licensor retains full rights to pursue legal remedies, including damages, injunctions, and recovery of attorney fees.
+
+The Licensee is prohibited from using the Software, its output, its structural behavior, its collapse patterns, or any observed characteristics for the purpose of conducting competitive research or developing any competing compression engine, reversible system, structural‑collapse technology, entropy‑routing method, structural transformation process, or any similar product.
+Any attempt to analyze the Software with the intent to design, derive, train, or develop a competing solution is strictly forbidden and constitutes a material breach of this Agreement.
+
+For avoidance of doubt, any research, benchmarking, profiling, or analysis performed with the intent to replace the Software, replicate its functionality, approximate its structural‑collapse behavior, or inform the development of a competing product is expressly prohibited.
+
+The Licensee may not share results, behaviors, collapse signatures, structural maps, or any other observations of the Software with third parties for the purpose of competitive research, algorithmic development, or structural‑collapse experimentation.
+
+Any violation of Sections 13–15 results in immediate termination of all rights granted under this Agreement. The Licensor retains full rights to pursue legal remedies, including damages, injunctions, and recovery of attorney fees.
+
 7\. Contact for Commercial Licensing
 
 For commercial licensing inquiries, contact:
