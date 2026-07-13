@@ -191,6 +191,32 @@ Any such action constitutes a material breach of this Agreement.
 
 Any violation of Sections 21–23 results in immediate termination of all rights granted under this Agreement. The Licensor retains full rights to pursue legal remedies, including damages, injunctions, and recovery of attorney fees.
 
+The Licensee is prohibited from creating any software, algorithm, compression engine, reversible system, structural‑collapse method, entropy‑routing process, or similar technology that is functionally equivalent to the Software, even if written entirely from scratch.
+Any implementation that replicates the functional behavior, structural transformation, reversible collapse logic, or multi‑pass processing of the Software shall be treated as a derivative work and is strictly forbidden.
+
+The Licensee may not use the Software for academic, scientific, experimental, or non‑commercial research if such research is intended to inform, inspire, derive, approximate, or develop any competing technology.
+Academic or research‑based derivative works are prohibited to the same extent as commercial derivative works.
+
+The Licensee is prohibited from analyzing the Software’s output, collapse signatures, structural maps, reversible signatures, entropy‑routing behavior, multi‑pass collapse patterns, or any other observable characteristics for the purpose of deriving algorithms, structural processes, or competing technology.
+Behavioral analysis, output‑based reverse engineering, and inference‑based reconstruction are strictly forbidden.
+
+The Licensee may not use the Software’s output, collapse signatures, structural maps, reversible signatures, or any other generated data to train, fine‑tune, instruct, or inform any artificial intelligence system, machine‑learning model, or automated code‑generation tool.
+Training AI systems on the Software’s output for the purpose of developing competing technology is expressly prohibited.
+
+All internal use of the Software by any organization, company, institution, or entity shall be considered commercial use.
+The Licensee may not claim internal use as an exemption from commercial licensing, derivative‑work restrictions, or competitive‑use prohibitions.
+
+Any fork, mirror, clone, or derivative repository containing the Software remains fully bound to the most recent version of this License Agreement.
+The Licensee may not rely on older license terms by using or maintaining outdated forks or mirrors.
+
+The Licensee may not extract, reuse, modify, or incorporate any individual component, function, module, structural rule, collapse pattern, reversible signature logic, entropy‑routing method, or any other part of the Software for any purpose prohibited by this Agreement.
+Any use of any component constitutes use of the Software in full and is subject to all restrictions herein.
+
+The Licensee is prohibited from designing, implementing, or distributing any API, interface, function signature, module structure, or external behavior that imitates, mirrors, or replicates the Software’s public or internal interfaces for the purpose of creating a competing product.
+API‑level imitation is treated as a derivative work and is strictly forbidden.
+
+Any violation of Sections 25–32 results in immediate termination of all rights granted under this Agreement. The Licensor retains full rights to pursue legal remedies, including damages, injunctions, statutory penalties, and recovery of attorney fees.
+
 7\. Contact for Commercial Licensing
 
 For commercial licensing inquiries, contact:
