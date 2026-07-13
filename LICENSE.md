@@ -132,8 +132,18 @@ This license terminates automatically if you violate any term.
 
 Upon termination, you must immediately delete all copies of the Software and cease all use.
 
+The Licensee is strictly prohibited from reverse engineering, decompiling, disassembling, analyzing, or otherwise attempting to derive the internal mechanics, algorithms, structures, rule systems, collapse engine behavior, entropy routing logic, reversible mapping system, or any other underlying implementation details of the Software.
+Any attempt to study, extract, or reconstruct the functional or structural design of the Software is expressly forbidden.
 
+The Licensee may not create, develop, train, generate, or derive any new software, compression system, structural transformation engine, reversible collapse mechanism, entropy‑based routing method, or any other technology that is based on, inspired by, or functionally similar to the structural analysis, structural transformation, or structural collapse processes used in the Software.
+This includes any system that converts raw data into structures and collapses those structures into reversible signatures, regardless of implementation language or architecture.
 
+The Licensee may not extract, replicate, or approximate any algorithm, rule set, collapse pattern, structural mapping technique, reversible signature format, or multi‑pass optimization strategy used by the Software, whether manually, programmatically, or through automated analysis tools.
+
+The Licensee may not use the Software, its output, or any observed behavior to design, train, or develop any competing compression engine, reversible system, structural collapse tool, or entropy‑routing technology.
+
+Any violation of Sections 8–11 constitutes immediate and material breach of this Agreement and results in automatic termination of all rights granted herein.
+The Licensor retains full rights to pursue legal remedies, including damages, injunctions, and recovery of attorney fees.
 7\. Contact for Commercial Licensing
 
 For commercial licensing inquiries, contact:
